@@ -1,0 +1,48 @@
+#bd{
+    background-color: lightgreen;
+    
+}
+#nv{
+    width: 60%;
+    margin-left: 20%;
+}
+#pic{
+    width: 60%;
+    margin-left: 20%;
+    /* height: 250px; */
+    background-color: white;
+    margin-top: 2%;
+    display: flex;
+    flex-wrap: wrap; 
+}
+img{
+    margin:2%;
+    
+    width: 200px;
+
+}
+.pro{
+    border: 0px;
+}
+#about{
+    width: 60%;
+    margin-left: 20%;
+    background-color: white;
+    margin-top: 2%;
+    padding-inline: 3%;
+}
+#project{
+    width: 60%;
+    margin-left: 20%;
+    background-color: white;
+    margin-top: 2%;
+    padding-inline: 3%;
+    height: 250px;
+}
+#language{
+    width: 60%;
+    margin-left: 20%;
+    background-color: white;
+    margin-top: 2%;
+    padding-inline: 3%;
+}
